@@ -23,18 +23,18 @@
     }
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.1.4",
-    "@commitlint/config-conventional": "^12.1.4",
-    "commitizen": "^4.2.4",
-    "cz-conventional-changelog": "^3.2.0",
-    "eslint": "^7.27.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "husky": "^6.0.0",
-    "lodash.isobject": "^3.0.2",
-    "prettier": "^2.3.0",
-    "standard-version": "^9.3.0",
-    "style-dictionary": "^3.0.0",
-    "tailwindcss": "^2.1.2"
+    "@commitlint/cli": "12.1.4",
+    "@commitlint/config-conventional": "12.1.4",
+    "commitizen": "4.2.4",
+    "cz-conventional-changelog": "3.2.0",
+    "eslint": "7.27.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-prettier": "3.4.0",
+    "husky": "6.0.0",
+    "lodash.isobject": "3.0.2",
+    "prettier": "2.3.0",
+    "standard-version": "9.3.0",
+    "style-dictionary": "3.0.0",
+    "tailwindcss": "2.1.2"
   }
 }
