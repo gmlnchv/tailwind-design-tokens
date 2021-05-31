@@ -18,7 +18,7 @@ _Example_
 _Import_
 
 ```css
-@import 'tailwind-design-tokens/tokens.css';
+@import 'tailwind-design-tokens/dist/tokens.css';
 ```
 
 ### SCSS variables
@@ -33,7 +33,7 @@ $tw-color-rose-100: #ffe4e6;
 _Import_
 
 ```scss
-@import 'tailwind-design-tokens/tokens.scss';
+@import 'tailwind-design-tokens/dist/tokens.scss';
 ```
 
 ### LESS variables
@@ -48,7 +48,7 @@ _Example_
 _Import_
 
 ```less
-@import 'tailwind-design-tokens/tokens.less';
+@import 'tailwind-design-tokens/dist/tokens.less';
 ```
 
 ### ES6 modules
@@ -66,7 +66,7 @@ _Import_
 import {
   TwColorRose50,
   TwColorRose100,
-} from 'tailwind-design-tokens/tokens.es6.js';
+} from 'tailwind-design-tokens/dist/tokens.es6.js';
 ```
 
 ### Android
