@@ -1,6 +1,6 @@
 {
   "name": "tailwind-design-tokens",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tailwind CSS color palette exported as design tokens in a variety of formats",
   "scripts": {
     "build": "style-dictionary build --config ./config.js",
